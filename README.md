@@ -3,4 +3,4 @@
 
 ### List
 - [Android](/android.md)
-- [etc](/etc.md)
+- [etc](/etc)
